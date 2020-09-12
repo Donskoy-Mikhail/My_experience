@@ -1,2 +1,3 @@
 # My_experience
-This repository contains projects, that I tried my hand at
+Этот репозиторий содержит проекты в которых я пробою свои силы и разные способы анализа и мотоды машинного обучения.
+ ff,kpf
